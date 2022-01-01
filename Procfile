@@ -1,0 +1,1 @@
+web:gunicorn mixcrud.wsgi --log-file -
